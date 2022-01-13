@@ -1,0 +1,1 @@
+cd public && del /f/q/s *.* > nul && cd.. && rmdir/q/s --> rm -rf
