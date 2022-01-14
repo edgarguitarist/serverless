@@ -6,7 +6,7 @@ Curso terminado con el proyecto de una aplicación web con HTML, JavaScript y CS
 
 - 🖼️ [Sitio Terminado](https://serverless-edgarguitarist.vercel.app)
 - 🎖️ [Curso en Udemy de Nicolas Schurmann](https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/)
-- <img style="margin-left:2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="midudev" height="16px" width="16px"/> [Mi Github](https://github.com/edgarguitarist)
+- <img style="margin:0px 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="midudev" height="16px" width="16px"/> [Mi Github](https://github.com/edgarguitarist)
 
 ## Instalación
 
