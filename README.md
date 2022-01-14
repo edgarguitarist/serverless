@@ -1,4 +1,4 @@
-# Curso de Javascript ES9, HTML5, CSS3 y Node.js desde Cero de Nicolas Schurmann
+# Proyecto del curso de Javascript ES9, HTML5, CSS3 y Node.js desde Cero de Nicolas Schurmann
 
 Curso terminado con el proyecto de una aplicación web con HTML, JavaScript y CSS que utiliza Node.js, Express y MongoDB.
 
@@ -6,7 +6,7 @@ Curso terminado con el proyecto de una aplicación web con HTML, JavaScript y CS
 
 - 🖼️ [Sitio Terminado](https://serverless-edgarguitarist.vercel.app)
 - 🎖️ [Curso en Udemy de Nicolas Schurmann](https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/)
-- <img style="margin:0px 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="midudev" height="16px" width="16px"/> [Mi Github](https://github.com/edgarguitarist)
+- <img style="margin:0px 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="16px" width="16px"/> [Mi Github](https://github.com/edgarguitarist)
 
 ## Instalación
 
@@ -14,7 +14,7 @@ Puedes abrir en tu navegador el `index.html` de la carpeta app y probar el Front
 
 ## Problemas
 
-Dentro del Proyecto me encontre con dos inconvenientes:
+Dentro del Proyecto me encontré con dos inconvenientes:
 
 ### 1. Deploy a Vercel y Vercel Dev
 Al momento de ejecutar el comando `vercel dev` en <img style="margin:0px 2px -2px 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg" alt="midudev" height="16px" width="16px"/> `Windows` para lanzar el sitio en el Localhost obtenía el siguiente error:
@@ -55,7 +55,7 @@ Cabe recalcar que al momento de hacer un deploy a Vercel el comando debe regresa
 
 ### 2. Post Orders
 
-Casi al finalizar el curso luego de hacer el login y de cambiar los templates al momento de hacer login o de llamar a la función `renderOrders() ` y esta llamar a la función `initializeForm()` al momento de hacer el `fetch` a la api de orders esta va a necesitar de la propiedad authorization en el header.
+Casi al finalizar el curso luego de hacer el login y de cambiar los templates al momento de hacer login o de llamar a la función `renderOrders()` y esta llamar a la función `initializeForm()` al momento de hacer el `fetch` a la api de orders esta va a necesitar de la propiedad authorization en el header.
 
 #### 2.1. Solución
 
